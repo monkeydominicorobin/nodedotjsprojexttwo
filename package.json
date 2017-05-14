@@ -1,15 +1,29 @@
 {
   "name": "nodedotjsprojexttwo",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
+  "engines": {
+    "node": "4.7.3",
+    "npm": "2.15.11"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Rommel Dominguez",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
     "express": "^4.15.2",
-    "morgan": "^1.8.1"
-  }
+    "express-useragent": "^1.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkeydominicorobin/nodedotjsprojexttwo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monkeydominicorobin/nodedotjsprojexttwo/issues"
+  },
+  "homepage": "https://github.com/monkeydominicorobin/nodedotjsprojexttwo#readme",
+  "description": ""
 }
