@@ -25,5 +25,9 @@
     "url": "https://github.com/monkeydominicorobin/nodedotjsprojexttwo/issues"
   },
   "homepage": "https://github.com/monkeydominicorobin/nodedotjsprojexttwo#readme",
-  "description": ""
+  "description": "Header Parser Microservice ==========================",
+  "devDependencies": {},
+  "keywords": [
+    "header"
+  ]
 }
